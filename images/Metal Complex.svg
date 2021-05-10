@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300pt" height="300pt" viewBox="0 0 300 300">
+<g enable-background="new">
+<g id="Layer-1" data-name="Layer 1">
+<path transform="matrix(1,0,0,-1,87.3441,85.992099)" d="M 0 0 L -29.191 16.024 L -29.191 -88.857 L 0 -71.796 Z " fill="#d3202d"/>
+<path transform="matrix(1,0,0,-1,150.2362,16.328492)" d="M 0 0 L -92.083 -53.64 L -62.892 -69.664 L 0 -35.069 Z " fill="#d3202d"/>
+<path transform="matrix(1,0,0,-1,210.8739,85.992099)" d="M 0 0 L -60.638 34.595 L -60.638 69.664 L 30.971 16.024 Z " fill="#ea1c2e"/>
+<path transform="matrix(1,0,0,-1,241.8446,69.9682)" d="M 0 0 L -30.971 -16.024 L -30.971 -87.998 L 0 -104.881 Z " fill="#ea1c2e"/>
+<path transform="matrix(1,0,0,-1,150.2362,179.8246)" d="M 0 0 L -48.919 26.894 L -48.919 81.6 L 0 53.788 Z " fill="#ea1c2e"/>
+<path transform="matrix(1,0,0,-1,199.2597,152.9311)" d="M 0 0 L -49.023 -26.894 L -49.023 26.894 L 0 54.707 Z " fill="#d3202d"/>
+<text fill="#231f20" xml:space="preserve" transform="matrix(.9960636 0 -0 1.0039519 0 300)" font-size="58.275999" font-family="CenturyGothic"><tspan y="-44.272344" x="61.06267 114.618328 145.85427 170.67984 213.80408">METAL</tspan></text>
+<text fill="#231f20" xml:space="preserve" transform="matrix(.99606427 0 -0 1.0039513 0 300)" font-size="12.666351" font-family="CenturyGothic" font-weight="bold"><tspan y="-14.18027" x="88.540378 107.71723 127.654079 148.35089 164.74114 179.61144 195.49504">COMPLEX</tspan></text>
+</g>
+</g>
+</svg>
