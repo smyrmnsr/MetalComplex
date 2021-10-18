@@ -1,4 +1,4 @@
-![Desktop photos](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png)
+![Metal-Complex](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png)
 
 
 ==================================================================================================
