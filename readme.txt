@@ -8,6 +8,8 @@ and much more. The template was made after completing the web module to test my 
 
 ==================================================================================================
 
+![Desktop photos](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png)
+
 
 SOURCES AND CREDITS:
 
