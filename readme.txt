@@ -3,15 +3,11 @@
 ![photo](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png?raw=true)
 
 
-==================================================================================================
-
 DESCRIPTION:
 
 Metal Complex is a CSS and  HTML5 one-page website designed for metal work business. It features a dark theme design with 
 features like fullscreen header/hero section, responsive video lightbox, a nice portfolio section 
 and much more. The template was made after completing the web module to test my acquired knowledge. 
-
-==================================================================================================
 
 
 SOURCES AND CREDITS:
