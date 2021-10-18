@@ -1,7 +1,7 @@
 #Project files
 
 <img src="/metal-complex.png" alt="My cool logo"/>
-![photo](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png?raw=true)
+[![photo](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png?raw=true)]
 
 
 DESCRIPTION:
