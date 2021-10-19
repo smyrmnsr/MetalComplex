@@ -1,5 +1,5 @@
 # Project Demo
-![Desktop photos](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.PNG)
+![Desktop photos](metal-complex.PNG)
 ![Desktop photos](https://github.com/smyrmnsr/shopqipo-ecommerce/blob/main/shopqipo-dashboard.PNG)
 ![Desktop photos](https://github.com/smyrmnsr/shopqipo-ecommerce/blob/main/shopqipo-cart.png)
 ![Mobile photos](https://github.com/smyrmnsr/shopqipo-ecommerce/blob/main/ahopqipo-mobile.png)
