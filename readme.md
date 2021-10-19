@@ -2,8 +2,8 @@
 <!-- ![Desktop photos](metal-complex.png)
 ![Desktop photos](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex-mobile-2.png) -->
 
-<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png" width="1500" height="750">
-<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex-mobile-2.png" width="1500" height="750">
+<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png" width="1500" height="600">
+<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex-mobile-2.png" width="1500" height="600">
 
 DESCRIPTION:
 
