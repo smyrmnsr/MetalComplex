@@ -2,6 +2,9 @@
 ![Desktop photos](metal-complex.png)
 ![Desktop photos](https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex-mobile-2.png)
 
+<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex.png)" width="1500" height="1000">
+<img src="https://github.com/smyrmnsr/MetalComplex/blob/master/metal-complex-mobile-2.png)" width="1500" height="1000">
+
 DESCRIPTION:
 
 Metal Complex is a CSS and  HTML5 one-page website designed for metal work business. It features a dark theme design with 
